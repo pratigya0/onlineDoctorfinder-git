@@ -1,0 +1,7 @@
+
+ a git config --global user.email "you@example.com"
+ this is me pratigya singh
+ khushi rajpoot
+ juo
+ :wq
+
